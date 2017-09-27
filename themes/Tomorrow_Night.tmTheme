@@ -51,7 +51,7 @@
 			<key>name</key>
 			<string>Foreground</string>
 			<key>scope</key>
-			<string>meta.delimiter, meta.brace.round.js, keyword.operator, keyword.operator.class, constant.other, source.php.embedded.line, support.type.property-name.css, JSXNested</string>
+			<string>meta.delimiter, meta.brace.round.js, meta.brace.curly.js, meta.brace.square.js, punctuation.terminator.statement.js, keyword.operator, keyword.operator.class, constant.other, source.php.embedded.line, support.type.property-name.css, JSXNested</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
