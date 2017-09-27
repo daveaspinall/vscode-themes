@@ -51,7 +51,7 @@
 			<key>name</key>
 			<string>Foreground</string>
 			<key>scope</key>
-			<string>meta.delimiter, meta.brace.round.js, keyword.operator, keyword.operator.class, constant.other, source.php.embedded.line</string>
+			<string>meta.delimiter, meta.brace.round.js, keyword.operator, keyword.operator.class, constant.other, source.php.embedded.line, support.type.property-name.css, JSXNested</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
@@ -75,7 +75,7 @@
 			<key>name</key>
 			<string>Number, Constant, Function Argument, Tag Attribute, Embedded</string>
 			<key>scope</key>
-			<string>constant.numeric, constant.language, support.constant, constant.character, variable.parameter, punctuation.section.embedded, keyword.other.unit, entity.other.attribute-name</string>
+			<string>constant.numeric, constant.language, support.constant, constant.character, constant.length.units.css, variable.parameter, punctuation.section.embedded, keyword.other.unit, entity.other.attribute-name</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
